@@ -69,7 +69,10 @@ Example:
 ---
 
 ## 👤 Author
-**Mohamed Alawady** — Assembly 8086 Educational Project (College)
+**Muhammad Waleed Muhammed **
+**Muhammad Yasser Ahmed Mosa**
+**Mahmoud Adel Radwan**
+— Assembly 8086 Educational Project (College)
 
 ---
 
