@@ -1,4 +1,4 @@
-# Children Learning App – Assembly 8086 (Version 2)
+# Children Learning App – Assembly 8086 
 
 This project is an educational learning application written in **8086 Assembly**, designed to teach children basic **English alphabets (A–Z)** and **numbers (0–9)**. The program displays a corresponding word for every entered letter or digit, making it a simple and interactive learning tool suitable for pre-school students.
 
