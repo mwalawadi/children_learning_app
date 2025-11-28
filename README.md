@@ -75,7 +75,6 @@ Example:
 
 **Mahmoud Adel Radwan**
 
-— Assembly 8086 Educational Project (College)
 
 ---
 
