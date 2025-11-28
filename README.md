@@ -69,7 +69,7 @@ Example:
 ---
 
 ## 👤 Author
-**Muhammad Waleed Muhammed**
+**Muhammad Waleed Muhammed Abd Alhay**
 
 **Muhammad Yasser Ahmed Mosa**
 
